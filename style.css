@@ -1,0 +1,82 @@
+.link{
+    font-size: 45px;
+    text-decoration: none;
+    margin-left: 80px;
+    color: bisque;
+}
+
+.link2{
+    font-size: 45px;
+    text-decoration: none;
+    margin-left: 40px;
+    color: bisque;
+}
+
+.st{
+    background-color:aliceblue;
+}
+
+.in{
+    font-size: 22.1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+}
+
+.si{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    font-weight: bolder;
+}
+
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.im{
+    margin-top: 40px;
+    width: 450px;
+    height: 350px;
+
+    
+}
+
+.au{
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+.char{
+    background-color:rgb(4,36,76);;
+}
+
+.di{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    font-size: 32;
+    color: bisque;
+    
+}
+
+.wi{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.sum{
+    color: bisque;
+    font-size: 50px;
+}
+.rol{
+text-align: center;
+color: aliceblue;
+font-size: 40px;
+}
+.but{
+    width: 80px;
+    height: 40px;
+    align-items: center;
+    margin-top: 90px;
+}
+
+
+
